@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">GUIAndroid</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="edit_message">Ingrese su mensaje</string>
+    <string name="button_send">Enviar</string>
+    <string name="menu_settings">Settings</string>
+    <string name="nombre">Su nombre: </string>
+
+</resources>
